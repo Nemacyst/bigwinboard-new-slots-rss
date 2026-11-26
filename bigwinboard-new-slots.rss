@@ -5,8 +5,8 @@
   <link>https://www.bigwinboard.com/new-slots/</link>
   <description>Aktuelle neue Slot-Releases von BigWinBoard.com – Reviews und Free Demos</description>
   <language>en</language>
-  <lastBuildDate>Thu, 26 Nov 2026 13:41:00 GMT</lastBuildDate>
-  <atom:link href="https://nemacyst.github.io/bigwinboard-new-slots-rss/bigwinboard-new-slots.rss" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Thu, 26 Nov 2026 13:20:17 GMT</lastBuildDate>
+  <atom:link href="https://raw.githubusercontent.com/Nemacyst/bigwinboard-new-slots-rss/main/bigwinboard-new-slots.rss" rel="self" type="application/rss+xml"/>
   
   <item>
     <title>Master Baiter (Maxxi Labs)</title>
@@ -129,6 +129,14 @@
   </item>
   
   <item>
+    <title>Stranger Farms (Delulu Gaming)</title>
+    <link>https://www.bigwinboard.com/stranger-farms-delulu-gaming-slot-review/</link>
+    <guid>https://www.bigwinboard.com/stranger-farms-delulu-gaming-slot-review/</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Release: Nov 25, 2026 | Max Win: 10,000x | RTP: 96.00% | Pulse: 92</description>
+  </item>
+  
+  <item>
     <title>Ghostly Mansion (Backseat Gaming)</title>
     <link>https://www.bigwinboard.com/ghostly-mansion-backseat-gaming-slot-review-demo/</link>
     <guid>https://www.bigwinboard.com/ghostly-mansion-backseat-gaming-slot-review-demo/</guid>
@@ -142,30 +150,6 @@
     <guid>https://www.bigwinboard.com/chubby-dragon-backseat-gaming-slot-review-demo/</guid>
     <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
     <description>Release: Nov 25, 2026 | Max Win: 10,000x | RTP: N/A | Pulse: 99</description>
-  </item>
-  
-  <item>
-    <title>Wild in the Box (BGaming)</title>
-    <link>https://www.bigwinboard.com/wild-in-the-box-bgaming-slot-review-demo/</link>
-    <guid>https://www.bigwinboard.com/wild-in-the-box-bgaming-slot-review-demo/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Release: Nov 25, 2026 | Max Win: 5,000x | RTP: 97% | Pulse: 87</description>
-  </item>
-  
-  <item>
-    <title>Raptor 3 (Yggdrasil Gaming)</title>
-    <link>https://www.bigwinboard.com/raptor-3-yggdrasil-gaming-slot-review-demo/</link>
-    <guid>https://www.bigwinboard.com/raptor-3-yggdrasil-gaming-slot-review-demo/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Release: Nov 25, 2026 | Max Win: 10,284x | RTP: 96% | Pulse: 96</description>
-  </item>
-  
-  <item>
-    <title>Whale Rush (Maxxi Labs)</title>
-    <link>https://www.bigwinboard.com/whale-rush-maxxi-labs-slot-review-demo/</link>
-    <guid>https://www.bigwinboard.com/whale-rush-maxxi-labs-slot-review-demo/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Release: Nov 25, 2026 | Max Win: 10,000x | RTP: 96.04% | Pulse: 84</description>
   </item>
 </channel>
 </rss>
