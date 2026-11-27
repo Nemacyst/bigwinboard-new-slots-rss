@@ -5,7 +5,7 @@
   <link>https://www.bigwinboard.com/new-slots/</link>
   <description>Aktuelle neue Slot-Releases von BigWinBoard.com – Reviews und Free Demos</description>
   <language>en</language>
-  <lastBuildDate>Fri, 27 Nov 2026 09:15:00 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 10:15:00 GMT</lastBuildDate>
   <atom:link href="https://raw.githubusercontent.com/Nemacyst/bigwinboard-new-slots-rss/main/bigwinboard-new-slots.rss" rel="self" type="application/rss+xml"/>
 
   <item>
@@ -70,15 +70,6 @@
     <description><![CDATA[Release: 27 Nov, 2026 | Max Win: 10,000x | RTP: 96.35% | Pulse: 93<br/><img src="https://www.bigwinboard.com/wp-content/uploads/2026/09/Immortal-Charge-slot-feat-1.jpg" alt="Immortal Charge"/>]]></description>
     <enclosure url="https://www.bigwinboard.com/wp-content/uploads/2026/09/Immortal-Charge-slot-feat-1.jpg" type="image/jpeg" length="0" />
     <media:content url="https://www.bigwinboard.com/wp-content/uploads/2026/09/Immortal-Charge-slot-feat-1.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Master Baiter (Maxxi Labs)</title>
-    <link>https://www.bigwinboard.com/master-baiter-maxxi-labs-slot-review-demo/</link>
-    <guid>https://www.bigwinboard.com/master-baiter-maxxi-labs-slot-review-demo/</guid>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-    <description><![CDATA[Release: 18 Nov, 2026 | Max Win: 15,000x | RTP: 96.05% | Pulse: 100<br/><img src="https://www.bigwinboard.com/wp-content/uploads/2026/10/Master-Baiter-slot-feat.jpg" alt="Master Baiter"/>]]></description>
-    <enclosure url="https://www.bigwinboard.com/wp-content/uploads/2026/10/Master-Baiter-slot-feat.jpg" type="image/jpeg" length="0" />
-    <media:content url="https://www.bigwinboard.com/wp-content/uploads/2026/10/Master-Baiter-slot-feat.jpg" type="image/jpeg" />
   </item>
   <item>
     <title>Feast of Fortune (Playnetic)</title>
@@ -169,6 +160,15 @@
     <description><![CDATA[Release: 26 Nov, 2026 | Max Win: 10,000x | RTP: N/A | Pulse: 81<br/><img src="https://www.bigwinboard.com/wp-content/uploads/2026/10/Unboxing-Oblivion-slot-feat.jpg" alt="Unboxing Oblivion"/>]]></description>
     <enclosure url="https://www.bigwinboard.com/wp-content/uploads/2026/10/Unboxing-Oblivion-slot-feat.jpg" type="image/jpeg" length="0" />
     <media:content url="https://www.bigwinboard.com/wp-content/uploads/2026/10/Unboxing-Oblivion-slot-feat.jpg" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Master Baiter (Maxxi Labs)</title>
+    <link>https://www.bigwinboard.com/master-baiter-maxxi-labs-slot-review-demo/</link>
+    <guid>https://www.bigwinboard.com/master-baiter-maxxi-labs-slot-review-demo/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[Release: 18 Nov, 2026 | Max Win: 15,000x | RTP: 96.05% | Pulse: 100<br/><img src="https://www.bigwinboard.com/wp-content/uploads/2026/10/Master-Baiter-slot-feat.jpg" alt="Master Baiter"/>]]></description>
+    <enclosure url="https://www.bigwinboard.com/wp-content/uploads/2026/10/Master-Baiter-slot-feat.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://www.bigwinboard.com/wp-content/uploads/2026/10/Master-Baiter-slot-feat.jpg" type="image/jpeg" />
   </item>
 
 </channel>
